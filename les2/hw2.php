@@ -34,7 +34,7 @@
  * сравниваем размеры подмассивов и выводим больший по размеру
  */
 
-$str = 'abcafde';
+$str = 'pwwkew';
 
 function getUniqStr($str){
     $arr = str_split($str);
